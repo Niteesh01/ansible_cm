@@ -1,0 +1,4 @@
+- name: Install Cloudmesh Client
+  hosts: cloudmesh_client_hosts
+  roles:
+  - role: cloudmesh_client

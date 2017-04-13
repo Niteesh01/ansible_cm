@@ -1,0 +1,3 @@
+[submodule "roles/cloudmesh_client"]
+	path = roles/cloudmesh_client
+	url = https://github.com/cloudmesh/ansible-cloudmesh-client.git
